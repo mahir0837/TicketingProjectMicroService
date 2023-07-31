@@ -14,7 +14,7 @@
         <module>project-service</module>
         <module>task-service</module>
         <module>app-client-management</module>
-        <module>discoveri-service</module>
+        <module>discovery-service</module>
     </modules>
 
     <parent>
